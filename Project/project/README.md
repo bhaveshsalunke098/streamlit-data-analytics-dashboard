@@ -43,15 +43,14 @@ An interactive **Data Analytics Dashboard** built using **Python** and **Streaml
 ## 📂 Project Structure
 
 ```text
-streamlit-data-analytics-dashboard/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── assets/
-│   └── dashboard.png
-├── data/
-└── utils/
+Project/
+└── project/
+    ├── assets/
+    ├── pages/
+    ├── utils/
+    ├── app.py
+    ├── requirements.txt
+    └── README.md
 ```
 
 ---
