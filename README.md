@@ -36,19 +36,10 @@ An interactive **AI-Powered Data Analytics Dashboard** built using **Python** an
 
 ### Dashboard
 
-> Add screenshots or GIFs here.
 
-Example:
+<img width="1532" height="727" alt="image" src="https://github.com/user-attachments/assets/395331b7-089f-40d2-b560-c93962f34e42" />
 
-```
-images/dashboard.png
-```
 
-or
-
-```
-demo.gif
-```
 
 ---
 
