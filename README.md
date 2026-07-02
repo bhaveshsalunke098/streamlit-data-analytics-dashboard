@@ -45,17 +45,15 @@ An interactive **AI-Powered Data Analytics Dashboard** built using **Python** an
 
 ## 📂 Project Structure
 
-```
-AI-Powered-Data-Analytics-Dashboard/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── data/
-├── assets/
-│   ├── dashboard.png
-│   └── demo.gif
-└── utils/
+```text
+Project/
+└── project/
+    ├── assets/
+    ├── pages/
+    ├── utils/
+    ├── app.py
+    ├── requirements.txt
+    └── README.md
 ```
 
 ---
