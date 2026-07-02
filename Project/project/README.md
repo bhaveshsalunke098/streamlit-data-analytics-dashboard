@@ -36,11 +36,7 @@ An interactive **Data Analytics Dashboard** built using **Python** and **Streaml
 
 ### Dashboard Preview
 
-> *(Insert your dashboard screenshot here)*
-
-```md
-![Dashboard](assets/dashboard.png)
-```
+<img width="1532" height="727" alt="image" src="https://github.com/user-attachments/assets/395331b7-089f-40d2-b560-c93962f34e42" />
 
 ---
 
