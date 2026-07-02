@@ -1,4 +1,4 @@
-# 📊 AI-Powered Data Analytics Dashboard
+# 📊 Streamlit Data Analytics Dashboard
 
 An interactive **AI-Powered Data Analytics Dashboard** built using **Python** and **Streamlit** that automates Exploratory Data Analysis (EDA), generates insightful visualizations, detects data quality issues, and provides AI-driven insights for uploaded datasets.
 
